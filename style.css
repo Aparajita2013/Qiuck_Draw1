@@ -1,0 +1,18 @@
+body{
+    background-color: darkseagreen;
+}
+
+#score{
+    font-size: 32px;
+    margin-left: 20px;
+}
+#timer{
+    font-size: 32px;
+    float:right;
+    margin-right: 20px;
+}
+
+#draw{
+    font-size: 22px;
+    color:firebrick
+}
